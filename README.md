@@ -21,7 +21,7 @@
     ### `npm install`
      
 3.**Running the Application:**
-   - Start the Development Server: \
+   - Start the Development Server: 
    - After installing the dependencies, start the development server by running:
  ### `npm start`
    - This will start the frontend on `http://localhost:3000`.
