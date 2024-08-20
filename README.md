@@ -17,14 +17,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
    cd vanced-frontend
 
 2. ** Install Dependencies:**
-    Run the following command to install all the necessary dependencies:
+    - Run the following command to install all the necessary dependencies:
          `npm install`
 
     Running the Application
-    Start the Development Server:
-    After installing the dependencies, start the development server by running:
+    - Start the Development Server:
+    - After installing the dependencies, start the development server by running:
          `npm start`
-    This will start the frontend on `http://localhost:3000`.
+    - This will start the frontend on `http://localhost:3000`.
 
 Available Scripts
 -In the project directory, you can run:
@@ -35,9 +35,9 @@ Available Scripts
 - npm run eject: Removes the single build dependency from your project and copies all configuration files and transitive dependencies directly into the project.
 
 Additional Notes
-If you encounter any issues, ensure that your Node.js and npm installations are up to date.
-The frontend is configured to connect to the backend API running at `http://localhost:5000`. Ensure the backend is running before using the frontend.
+- If you encounter any issues, ensure that your Node.js and npm installations are up to date.
+- The frontend is configured to connect to the backend API running at `http://localhost:5000`. Ensure the backend is running before using the frontend.
 Learn More
-You can learn more in the Create React App documentation.
+- You can learn more in the Create React App documentation.
 
-To learn React, check out the React documentation.
+- To learn React, check out the React documentation.
